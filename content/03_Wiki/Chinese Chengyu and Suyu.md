@@ -4,9 +4,8 @@
 
 > [!INFO] Define: Suyu (俗语)
 > common saying; folk adage
-
-
 ### 鲜花插在牛粪上 (xiānhuā chā zài niúfèn shàng)
+
 Literally: a bunch of flowers poked into a pile of manure
 Figuratively: a terrible shame (as when a lovely woman marries an odious man)
 ### 癞蛤蟆想吃天鹅肉 (lài há ma xiǎng chī tiān é ròu)
