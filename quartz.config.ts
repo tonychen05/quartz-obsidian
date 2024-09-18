@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "quartz-obsidian-kappa.vercel.app/",
     ignorePatterns: ["private", "templates", ".obsidian", "**/00_Personal", "**/02_Restaurant", "*.pdf"],
     defaultDateType: "created",
     theme: {
