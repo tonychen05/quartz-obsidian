@@ -1,0 +1,3 @@
+Ancestor reverencing, sometimes called “ancestor worship,” is a common aspect of worldview in East Asia and has implicitly survived even in North Korea where religious expression is still strongly suppressed. 
+
+Linked in many ways with the ethics of Confucianism, the practice is based on the idea that living people are a link between the realm of those yet born and the realm of those who once lived on earth, and are now part of the spirit world. The specific conceptions and practices vary between cultures and locales like other traditional beliefs in East Asia.

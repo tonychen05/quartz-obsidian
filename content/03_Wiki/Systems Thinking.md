@@ -1,0 +1,11 @@
+- A **system** is any part of anything that you want to think about as an indivisible unit
+	- Ex: Eclipse, Chrome (software system), refrigerator (physical system)
+- An **interface** is a description of the "boundary" between a system and everything else, that also describes how to think about that system as a unit.
+	- Ex: Selecting water, crushed ice, or cubed ice in a ice/water dispenser
+- A **subsystem** (**component**) is a system that is used inside, i.e., as a part of another system -- a relative notion
+	- Ex: the compressor in a fridge
+- A **client** is a person viewing a system "from the outside" as an indivisible unit
+	- Ex: user of the fridge
+- An **implementer** is a person (or a role played by some agent) viewing a system "from the inside" as an assembly of subsystems/components
+	- Ex: builder of the fridge
+	- Implementer could be a client if say, the compressor, was bought

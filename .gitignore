@@ -9,3 +9,6 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+**/00_Personal
+**/02_Restuarant
+*.pdf

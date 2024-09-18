@@ -1,0 +1,8 @@
+1. **Identify Minimal Pairs:** Look for pairs of words that differ only by one sound in the same position but have different meanings. No minimal pairs are found for [ɹ] and [ɹ̥] in the given data.
+2. **Examine Phonetic Environments:** List the phonetic environments of each sound. [ɹ] appears word-finally and elsewhere, while [ɹ̥] appears after voiceless consonants.
+3. **Find Natural Classes:** Look for shared characteristics among sounds in each environment. [ɹ̥] follows voiceless consonants, suggesting a natural class of voiceless consonants.
+4. **Determine Complementary [[Distribution]]:** Identify any systematic gaps in the distribution of sounds. [ɹ] and [ɹ̥] do not appear in the same environments; they are in complementary distribution.
+5. **State Generalizations:** Formulate rules describing the distribution of each sound. [ɹ̥] appears after voiceless consonants, while [ɹ] appears elsewhere.
+6. **Label the Phoneme:** Choose which sound to name the phoneme after. In this case, [ɹ] is chosen as the basic allophone because it appears in a wider range of environments.
+7. **Write Phonological Rules:** Formulate rules showing the process from the phoneme to each allophone. For example: /ɹ/ becomes [ɹ̥] after voiceless consonants and remains [ɹ] elsewhere.
+9. **Identify Phonological Process:** Determine the phonological process involved in the rule. In this case, assimilation occurs as the voiced phoneme [ɹ] becomes voiceless [ɹ̥] after voiceless consonants.

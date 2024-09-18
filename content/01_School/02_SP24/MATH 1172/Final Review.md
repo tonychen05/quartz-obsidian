@@ -1,0 +1,10 @@
+# Topics:
+- [[Functions of Several Variables]]
+- [[Planes]]
+- [[Limits and Continuity]]
+- [[Partial Derivatives]]
+- [[Differentiability of Multivariable Functions]]
+- [[Tangent Plane]]
+- [[Multivariable Chain Rule]]
+- [[Directional Derivatives]]
+- [[Interpreting the Gradient]]

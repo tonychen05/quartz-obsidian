@@ -1,0 +1,1 @@
+_Carriage return_ means to return to the beginning of the current line without advancing downward.

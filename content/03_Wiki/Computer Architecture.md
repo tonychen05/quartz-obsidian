@@ -1,0 +1,1 @@
+Processer, storage, memory, input device, output device

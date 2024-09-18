@@ -1,0 +1,217 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+A ^DUdvO8p6
+
+B ^A8U354ch
+
+%%
+# Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.23",
+	"elements": [
+		{
+			"type": "rectangle",
+			"version": 91,
+			"versionNonce": 1041900798,
+			"isDeleted": false,
+			"id": "b4P9Wi6RVFfnJe94Pb6_a",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -215.43753945827484,
+			"y": -190.45244598388672,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 533.1166076660156,
+			"height": 329.8506774902344,
+			"seed": 1526246974,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1725042875755,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "ellipse",
+			"version": 87,
+			"versionNonce": 1903391573,
+			"isDeleted": false,
+			"id": "2klvWOmCTKyKt6WiUU1JG",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -126.58475625514984,
+			"y": -127.1600570678711,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "#a5d8ff",
+			"width": 205.70025634765625,
+			"height": 205.70025634765625,
+			"seed": 298362274,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1725043246775,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "ellipse",
+			"version": 165,
+			"versionNonce": 2009283925,
+			"isDeleted": false,
+			"id": "977qliZRZJxfAirMPz68z",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5.092581391334534,
+			"y": -128.55260467529297,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 205.70025634765625,
+			"height": 205.70025634765625,
+			"seed": 1751048190,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1725043219023,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 46,
+			"versionNonce": 1349560930,
+			"isDeleted": false,
+			"id": "DUdvO8p6",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -168.57685220241547,
+			"y": -160.76331329345703,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 31.146865844726562,
+			"height": 59.35248574264908,
+			"seed": 45302078,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1725042906802,
+			"link": null,
+			"locked": false,
+			"fontSize": 47.481988594119265,
+			"fontFamily": 1,
+			"text": "A",
+			"rawText": "A",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "A",
+			"lineHeight": 1.25,
+			"baseline": 41
+		},
+		{
+			"type": "text",
+			"version": 114,
+			"versionNonce": 2043242466,
+			"isDeleted": false,
+			"id": "A8U354ch",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 218.37185537815094,
+			"y": 37.71026988502308,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 34.51795959472656,
+			"height": 59.35248574264908,
+			"seed": 2016344546,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1725042910459,
+			"link": null,
+			"locked": false,
+			"fontSize": 47.481988594119265,
+			"fontFamily": 1,
+			"text": "B",
+			"rawText": "B",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "B",
+			"lineHeight": 1.25,
+			"baseline": 41
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#1971c2",
+		"currentItemBackgroundColor": "#a5d8ff",
+		"currentItemFillStyle": "hachure",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 90,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 28,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 237.155660033226,
+		"scrollY": 398.0152816772461,
+		"zoom": {
+			"value": 1.6
+		},
+		"currentItemRoundness": "sharp",
+		"gridSize": null,
+		"gridColor": {
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
+		},
+		"currentStrokeOptions": null,
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		}
+	},
+	"files": {}
+}
+```
+%%

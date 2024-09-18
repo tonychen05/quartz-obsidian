@@ -1,0 +1,6 @@
+- Considered Japan's "*indigenous*" and "*nature*" religion
+	- largely [[Animism|animist]]
+- Collection of rituals
+- Reverence of *kami*
+	- can range from major natural objects to seemingly commonplace local sites
+- Most important *kami* = Sun-goddess Amaterasu
