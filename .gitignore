@@ -10,5 +10,5 @@ private/
 .replit
 replit.nix
 **/00_Personal
-**/02_Restuarant
+**/02_Restaurant
 *.pdf
