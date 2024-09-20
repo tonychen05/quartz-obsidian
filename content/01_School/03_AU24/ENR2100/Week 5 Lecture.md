@@ -5,6 +5,3 @@ aliases:
 ---
 # Topics:
 - [[Population Ecology]]
-- 
-
-#toprocess 

@@ -6,5 +6,3 @@ aliases:
 # Topics:
 - [[Law, Social Change, and the Class Struggle]]
 
-
-#toprocess 

@@ -6,5 +6,3 @@ aliases:
 # Topics:
 - [[Continuous Random Variables]]
 - [[Normal Distribution]]
-
-#toprocess 

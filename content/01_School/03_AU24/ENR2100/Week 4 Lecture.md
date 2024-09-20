@@ -5,5 +5,3 @@ aliases:
 ---
 # Topics:
 - [[Human Populations]]
-
-#toprocess 

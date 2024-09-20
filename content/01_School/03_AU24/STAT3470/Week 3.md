@@ -8,5 +8,3 @@ aliases:
 - [[Continuous Random Variables]]
 - [[Binomial Distribution]]
 - [[Poisson Distribution]]
-
-#toprocess 

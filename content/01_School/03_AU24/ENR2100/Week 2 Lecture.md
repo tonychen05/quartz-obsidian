@@ -67,6 +67,3 @@ Example Case Study: the ozone hole
 
 
 
-
-
-#toprocess 

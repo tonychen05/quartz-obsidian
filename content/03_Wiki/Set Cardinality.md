@@ -31,6 +31,19 @@ $$f(T)=\left\{ \begin{array}{\ll}
 T \cup \{ x \} \qquad \mbox{if $x \in T$} \\
 T - \{ x \} \qquad \mbox{if $x \in T$}
 \end{array} \right\} $$
+.... idk man
+
+
+> [!NOTE] "Countably Infinite"
+> Any set of cardinality the same as $\mathbb{N}$ is "countably infinite," denoted as $\aleph_{0}$ "aleph null"
+
+$\mathbb{R}$ is not countably infinite, denoted $\aleph_{1}$ (aleph one)
+- $|(0,1)|=|(0,2)|=|\mathbb{R}|=\aleph_{1}$
+	- Proof:
+		- $f:(0,1)\to(0.2)$ is a bijection when $f(x)=2x$
+
+
+
 
 
 #toprocess 

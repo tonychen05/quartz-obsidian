@@ -11,7 +11,3 @@ aliases:
 
 Controlled Experiment = researcher controls independent variables
 Observational Studies = Researcher does not manipulate/control the independent variables
-
-
-
-#toprocess 

@@ -14,6 +14,8 @@
 > $$P(a\leq X\leq b)=\int_{a}^{b} f(x) \, dx $$
 > That is, the probability that $X$ takes on a value in the interval $\left[ a,b \right]$ is the area above this interval and under the graph of the density function. The graph of $f(x)$ is often referred to as the *density curve*.
 
+^1198bb
+
 For $f(x)$ to be a legitimate pdf, it must satisfy the following two conditions:
 1. $f(x)\geq 0$ for all $x$
 2. $\int _{-\infty}^{\infty}f(x) \, dx=\text{area under the entire graph of } f(x)=1$

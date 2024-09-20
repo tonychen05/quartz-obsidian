@@ -60,6 +60,3 @@ aliases:
   Why would scientists want to determine a threshold dose?
 
 - Be able to describe ways in which scientists collect data related to pollutants and their impact on human health.
-
-
-#toprocess 

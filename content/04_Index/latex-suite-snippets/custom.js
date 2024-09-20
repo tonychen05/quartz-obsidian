@@ -9,4 +9,10 @@
 	
 	// Statistics
 	{trigger: "binom", replacement: "\\binom", options: "mA"},
+	
+	// Discrete Math
+	{trigger: "aleph", replacement: "\\aleph", options: "mA"},
+	
+	// Useful Text
+	{trigger: "min", replacement: "\\text{min}", options: "mA"},
 ]

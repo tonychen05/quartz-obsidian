@@ -14,6 +14,8 @@ If $X$ is a discrete random variable, the function given by $f(x)-P(X-x)$ for ea
 > [!INFO] Define: Probability Mass Function (pmf) (Formally)
 > The **probability distribution** or **probability mass function** (pmf) of a *discrete* rv is defined for every number $x$ by $p(x)=P(X=x)=P(\text{all } \omega \in S:X(\omega)=x)$.
 
+^811523
+
 In English: for every possible value $x$ of the random variable, the pmf species the probability of observing that value when the experiment is preformed. The conditions $p(x)\geq 0$ and $\sum_{\text{all possible }x}p(x)=1$
 #### Example (Discrete RV)
 Suppose a family has 3 children. Let $X$ = the number of girls
