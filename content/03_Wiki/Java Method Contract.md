@@ -3,7 +3,6 @@ aliases:
   - Quantification
 ---
 
-
 > [!NOTE] Precondition `@requires`
 > A **precondition** (requires clause) that characterizes the responsibility of the program that calls (uses) that method (client code) 
 
@@ -51,7 +50,8 @@ for all s: string of T
 > 
 > I.e. the conditions never showed up to determine whether the statement is true or false
 > - Example: If gravity turned off, I will go skydiving
-
+>
+>Also see [[Logical Connectives#Implication/Condition/If]]
 
 
 **Existential quantification** is used when you want to say something is true for some combination of values.
@@ -61,3 +61,6 @@ for all s: string of T
 there exists n, k: integer
 	(n > 0 and n = 2 * k + 1)
 ```
+
+--- also see [[Quantifiers]]
+

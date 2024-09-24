@@ -30,7 +30,7 @@ Let $x$ denote an arbitrary fixed element in the set $S$ (note that since $S$ is
 $$f(T)=\left\{ \begin{array}{\ll}
 T \cup \{ x \} \qquad \mbox{if $x \in T$} \\
 T - \{ x \} \qquad \mbox{if $x \in T$}
-\end{array} \right\} $$
+\end{array} \right\}$$
 .... idk man
 
 

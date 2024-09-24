@@ -8,6 +8,7 @@ aliases:
 	- [[Types of Sampling Methods]]
 - [[Summary Statistics]] - Mean, median, mode
 - [[Probability]]
+- - [[Conditional Probability]]
 
 Controlled Experiment = researcher controls independent variables
 Observational Studies = Researcher does not manipulate/control the independent variables
